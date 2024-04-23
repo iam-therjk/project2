@@ -1,0 +1,1 @@
+// some type in js
